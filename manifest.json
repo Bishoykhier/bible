@@ -1,0 +1,20 @@
+{
+  "name": "365 آية يومية",
+  "short_name": "آية يومية",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdf6e3",
+  "theme_color": "#8b0000",
+  "icons": [
+    {
+      "src": "bible-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "bible-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
